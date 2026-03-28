@@ -4,11 +4,14 @@ Atualmente sou estudante de ciência de dados e inteligência artificial.
 
 ##
 
+### 💻 Coding Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
+
+### 🌐 Socials
 
 <div> 
 
